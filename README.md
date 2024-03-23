@@ -1,7 +1,5 @@
 # Afia
 
-## Sobre Mim :)
-
 Olá! sou uma entusiasta da tecnologia e aspirante a desenvolvedor de software. 
 Estou atualmente estudando Engenharia da Computação na faculdade, onde estou mergulhando profundamente nos fundamentos da computação e 
 expandindo meu conhecimento em desenvolvimento de software.
